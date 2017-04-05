@@ -1,5 +1,8 @@
-This is an ionic app of meal track management which relys on 
-[parse server](https://github.com/ge90toga/parse-server-example) deployed on [heroku](https://dashboard.heroku.com/). 
+This is an ionic app of meal tracker using ionic and angular as from end and heroku, mLab as backend
+
+## Demo
+
+A short demo video is available on [youtube](https://youtu.be/HD4gdzJPhoQ)
 
 ## Project Setup
 
